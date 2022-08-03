@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-05-15 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+国内会議SCIにて口頭発表し，学生発表賞を受賞しました（12/6-@Kyoto, Kyoto）
