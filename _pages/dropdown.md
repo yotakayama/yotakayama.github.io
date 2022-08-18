@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: Japanese/English
 nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Japanese
+      permalink: /jp/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: English
+      permalink: /
 ---

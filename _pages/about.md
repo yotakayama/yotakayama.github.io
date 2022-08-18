@@ -24,7 +24,7 @@ Current Affiliation:
 
 Graduate School of Informatics, Kyoto University, Japan
 
-Research Interest: Systems and Control, Robotics, Formal methods, Applied Algebraic Methods
+Research Interest: Cyber-Physical System, Control Theory, Formal methods
 
 
  <style>/*
