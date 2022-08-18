@@ -6,16 +6,17 @@ subtitle:
 
 profile:
   align: right
-  #image: IMG_2249.JPG
-  image_cicular: false # crops the image to make it circular
+  image: IMG_2644.JPG
+  image_cicular: true # crops the image to make it circular
   address: >
     <p><a href='https://github.com/yotakayama'>Email</a></p>
     <p><a href='https://github.com/yotakayama'>Google Scholar</a></p>
     <p><a href='https://github.com/yotakayama'>Github</a></p>
 
+social: true  # includes social icons at the bottom of the page
 news: True  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+
 ---
 
 Graduate Student
