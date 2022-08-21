@@ -26,13 +26,13 @@ I’m Yoshinari Takayama, a 2nd-year student in Graduate School of Informatics, 
     </center>
  */</style>
 
-### *Research Interest*
+### *Research Interests*
 ---------------------------------------
  * Cyber-Physical System
  * Control Theory
  * Formal methods
 
-__The problem of controller synthesis and verification of Cyber-Physical Systems (CPS)__ are generally tough to deal with, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. Such hybrid systems are becoming very complex, and so the specification requirements are. I believe that hierarchical modeling are important in such cases. My research focuses on developing methods to handle such hybrid systems by combining the mathematical approaches developed in the field of control theory, optimization, and formal methods (including algebraic approaches). 
+__The problems of controller synthesis and verification of Cyber-Physical Systems (CPS)__ are generally tough to deal with, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. Such hybrid systems are becoming very complex, and so the specification requirements are. I believe that hierarchical modeling are important in such cases. My research focuses on developing methods to handle such hybrid systems by combining the mathematical approaches developed in the field of control theory, optimization, and formal methods (including algebraic approaches). 
 
  <style>/*
 I use tools from the field of control theory, such as optimal control, Lyapunov's method, stability, and nonlinear control mainly to deal with continuous dynamics.
@@ -46,7 +46,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 */</style>
 
-### *Publication*
+### *Publications*
 ---------------------------------------
 - Yoshinari Takayama, Kenta Hoshino,  and Ohtsuka, Toshiyuki, Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems, IEEE Conference on Decision and Control (CDC’22)
 - 高山善成, 星野健太, 大塚敏之, シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI’22）
