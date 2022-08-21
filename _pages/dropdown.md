@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Japanese/English
-nav: true
-nav_order: 6
+title: 日本語/English
+nav: false
+nav_order:
 dropdown: true
 children: 
-    - title: Japanese
+    - title: 日本語
       permalink: /jp/
     - title: divider
     - title: English
