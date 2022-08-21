@@ -11,7 +11,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 ---
 ---------------------------------------
-I’m Yoshinari Takayama, a 2rd-year student in Graduate School of Informatics, Kyoto University, Japan. My research supervisor is Toshiyuki Ohtsuka.
+I’m Yoshinari Takayama, a 2nd-year student in Graduate School of Informatics, Kyoto University, Japan. My research supervisor is Toshiyuki Ohtsuka.
  <style>/*
  profile:
   align: right
