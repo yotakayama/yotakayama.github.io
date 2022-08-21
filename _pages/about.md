@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -26,7 +26,7 @@ I’m Yoshinari Takayama, a 2rd-year student in Graduate School of Informatics, 
     </center>
  */</style>
 
-### *research interest*
+### *Research Interest*
 ---------------------------------------
  * Cyber-Physical System
  * Control Theory
