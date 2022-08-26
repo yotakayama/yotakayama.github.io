@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: yotakayama # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username:  # your Twitter handle
+twitter_username: tarskiyt # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid:  # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -85,7 +85,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can contact me.
+  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
