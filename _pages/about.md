@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Informatics, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>. My research supervisor is <a href="http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm">Toshiyuki Ohtsuka</a>
+subtitle: I’m Yoshinari Takayama（高山善成）, a 2nd-year graduate student in Graduate School of Informatics, <a href="https://www.kyoto-u.ac.jp/en">Kyoto University</a>. My research supervisor is <a href="http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm">Toshiyuki Ohtsuka</a>
 
 
 social: true  # includes social icons at the bottom of the page
