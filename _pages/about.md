@@ -30,7 +30,7 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
 
 ### *Research Interests*
 ---------------------------------------
- * Cyber-Physical Systems (Hybrid systems)
+ * Hybrid dynamical systems
  * Systems and Control
  * Formal methods
  * Robotics
@@ -57,9 +57,11 @@ both of which are needed to tackle the problems of control  and verification of 
 
 ### *Publications*
 ---------------------------------------
-- Yoshinari Takayama, Kenta Hoshino,  and Ohtsuka, Toshiyuki, Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems, IEEE Conference on Decision and Control (CDC’22)
+- Yoshinari Takayama et al., Paper on Signal Temporal Logic will be soon submitted, (CDC’22)(8-10 pages)
+- Yoshinari Takayama, Kenta Hoshino,  and Ohtsuka, Toshiyuki, Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems, IEEE Conference on Decision and Control (CDC’22)(8 pages)
 - 高山善成, 星野健太, 大塚敏之, シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI’22）
 
+<!--
 ### *Twitter*
 ---------------------------------------
-{% twitter https://twitter.com/tarskiyt maxwidth=500 limit=5 %}
+{% twitter https://twitter.com/tarskiyt maxwidth=500 limit=5 %}-->
