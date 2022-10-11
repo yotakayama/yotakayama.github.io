@@ -30,10 +30,9 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
 
 ### *Research Interests*
 ---------------------------------------
- * Controls
- * Machine Learning
- * Formal Methods
- * Commutative Algebra
+ * Hybrid Dynamical System
+ * Algebraic and Symbolic Control
+ * Formal Specifications
 
 <!--The problems of __control and verification of Hybrid Dynamical Systems__ are generally tough to deal with, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. 
  Such hybrid systems are becoming very complex, and so the specification requirements are.
