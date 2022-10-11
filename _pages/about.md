@@ -37,7 +37,7 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
 
 The problems of __control and verification of Hybrid Dynamical Systems (or Cyber-Physical Systems (CPS))__ are generally tough to deal with, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. 
 <!-- Such hybrid systems are becoming very complex, and so the specification requirements are. --> 
-My research focuses on developing methods to handle such hybrid systems by combining the mathematical approaches developed in the field of __control theory, optimization, and formal methods (including algebraic approaches)__. 
+My research focuses on developing methods to handle such hybrid systems by combining the mathematical approaches developed in the field of __(algebraic) control theory, optimization, and formal methods__. 
 
  <style>/*
 I use tools from the field of control theory, such as optimal control, Lyapunov's method, stability, and nonlinear control mainly to deal with continuous dynamics.
@@ -57,7 +57,7 @@ both of which are needed to tackle the problems of control  and verification of 
 
 ### *Publications*
 ---------------------------------------
-- Yoshinari Takayama et al., Paper on Signal Temporal Logic will be soon submitted, (CDC’22)(8-10 pages)
+- Yoshinari Takayama et al., A Paper on Signal Temporal Logic, (will be soon submitted), (12-15 pages)
 - Yoshinari Takayama, Kenta Hoshino,  and Ohtsuka, Toshiyuki, Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems, IEEE Conference on Decision and Control (CDC’22)(8 pages)
 - 高山善成, 星野健太, 大塚敏之, シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI’22）
 
