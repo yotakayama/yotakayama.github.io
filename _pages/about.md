@@ -58,7 +58,7 @@ both of which are needed to tackle the problems of control  and verification of 
 
 ### *Publications*
 ---------------------------------------
-- Yoshinari Takayama et al., A Paper on Signal Temporal Logic and Convex Optimization, (will be soon submitted), (12-15 pages)
+- Yoshinari Takayama et al., A Paper on Signal Temporal Logic Planning, (will be soon submitted), (around 12 pages)
 - Yoshinari Takayama, Kenta Hoshino,  and Ohtsuka, Toshiyuki, Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems, IEEE Conference on Decision and Control (CDC’22)(8 pages)
 - 高山善成, 星野健太, 大塚敏之, シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI’22）
 
