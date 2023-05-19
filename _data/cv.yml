@@ -1,0 +1,35 @@
+- title: Education
+  type: time_table
+  contents:
+    #- title: PhD student
+    #  year: 2023.4 - 
+    - title: PhD at the Laboratory of Signals and Systems (L2S), CentraleSupélec, Paris-Saclay University
+      year: 2023.5 - 2027.4
+    - title: Master of Informatics, Graduate School of Informatics, Kyoto University
+      year: 2021.4 - 2023.3
+    - title: Bachelor of Informatics, School of Informatics and Mathematical Science, Faculty of Engineering, Kyoto University
+      year: 2017.4 - 2021.3
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023.3
+      items: 
+        - システム制御情報学会　学会賞奨励賞
+    - year: 2023.3
+      items: 
+        - SICE International Young Authors Award (CDC'22)
+    - year: 2022.5
+      items: 
+        - 学生優秀発表賞 (SCI'22) 
+
+
+
+- title: Teaching
+  type: time_table
+  contents:
+    - year: 2021.4 - 2023.1
+      items: Teaching assistant for Mechanical Systems Engineering Experiment 3 (spring, fall), Kyoto University
+    - year: 2021.4 - 2021.7
+      items: Teaching assistant for Basic Information Exercise (Faculty of Engineering) (spring), Kyoto University
