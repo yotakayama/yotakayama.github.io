@@ -57,12 +57,20 @@ both of which are needed to tackle the problems of control  and verification of 
 
 ### *Publications*
 ---------------------------------------
-- Y. Takayama, K. Hashimoto, and T. Ohtsuka, "[STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications](https://arxiv.org/abs/2305.09441)", 2023
-- Y. Takayama, K. Hashimoto, and T. Ohtsuka, "[Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications](https://arxiv.org/abs/2304.01475)", 2023
-- Yoshinari Takayama, Kenta Hoshino, and Toshiyuki Ohtsuka, "[Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems](https://ieeexplore.ieee.org/document/9992595)", IEEE Conference on Decision and Control (CDC’22)
-- 高山善成, 星野健太, 大塚敏之, シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI’22）
+- Y. Takayama, K. Hashimoto, and T. Ohtsuka, "STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications," 2023 [[arXiv](https://arxiv.org/abs/2305.09441)]
+
+- Y. Takayama, K. Hashimoto, and T. Ohtsuka, "Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications," 2023 [[arXiv](https://arxiv.org/abs/2304.01475)]
+
+- Yoshinari Takayama, Kenta Hoshino, and Toshiyuki Ohtsuka, "Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems," IEEE Conference on Decision and Control (CDC), 2022 [[url](https://ieeexplore.ieee.org/document/9992595)]
+
+- 高山善成, 星野健太, 大塚敏之, シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI）, 2022 [[url](https://cir.nii.ac.jp/crid/1520010842629404544)]
+
+### *Others*
+---------------------------------------
+- Y. Takayama, Structure-Exploiting Optimization for Control with Signal Temporal Logic Specifications, 3rd workshop of the RTE Chair at CentraleSupélec, 2023 [[url](https://csrte23.sciencesconf.org/)]
 
 <!--
 ### *Twitter*
 ---------------------------------------
-{% twitter https://twitter.com/tarskiyt maxwidth=500 limit=5 %}-->
+{% twitter https://twitter.com/newewen_ maxwidth=500 limit=5 %}
+-->
