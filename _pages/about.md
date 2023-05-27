@@ -57,7 +57,7 @@ both of which are needed to tackle the problems of control  and verification of 
 
 ### *Publications*
 ---------------------------------------
-- Y. Takayama, K. Hashimoto, and T. Ohtsuka, "STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications," 2023 [[arXiv](https://arxiv.org/abs/2305.09441)]
+- Y. Takayama, K. Hashimoto, and T. Ohtsuka, "STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications," 2023 [[arXiv](https://arxiv.org/abs/2305.09441)] [[code](https://github.com/yotakayama/stlccp)]
 
 - Y. Takayama, K. Hashimoto, and T. Ohtsuka, "Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications," 2023 [[arXiv](https://arxiv.org/abs/2304.01475)]
 
