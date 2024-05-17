@@ -10,6 +10,4 @@ git commit -m "CPES and NMPC"
 bundle install
 
 # Use expect to automate confirmation
-expect -c '
-spawn bin/deploy -d master -s source
-expect "Do you want to proceed? [y/N]" { send "y\r" }
+yes | bin/deploy -d master -s source
