@@ -55,22 +55,22 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ### *Publications*
 ---------------------------------------
 #### *Peer-reviewed Journal Papers*
-- [Y. Takayama, K. Hashimoto, and T. Ohtsuka, "STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications," 2023](https://arxiv.org/abs/2305.09441) [[code](https://github.com/yotakayama/stlccp)]
+- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications," 2023](https://arxiv.org/abs/2305.09441) [[code](https://github.com/yotakayama/stlccp)]
 
 #### *Peer-Reviewed Conferences*
-- [Yoshinari Takayama, Adnane Saoud, Alessio Iovine, Iterative Optimization-based Control of a Class of Mixed Logical Dynamical Systems with STL Specifications: A Case Study on Microgrids, 8th IFAC Conference on Nonlinear Model Predictive Control (NMPC), Japan, 2024](https://hal.science/hal-04548049).
+- Yoshinari Takayama, Adnane Saoud, Alessio Iovine, ["Iterative Optimization-based Control of a Class of Mixed Logical Dynamical Systems with STL Specifications: A Case Study on Microgrids, 8th IFAC Conference on Nonlinear Model Predictive Control (NMPC), Japan, 2024](https://hal.science/hal-04548049).
 
-- [Yoshinari Takayama, Adnane Saoud, Alessio Iovine, Power management via STL specifications of a DC microgrid integrating renewables and storage devices: a smart railway station case study, 12th IFAC Symposium on Control of Power & Energy Systems (CPES), Morocco, 2024](https://hal.science/hal-04576820).
+- Yoshinari Takayama, Adnane Saoud, Alessio Iovine, ["Power management via STL specifications of a DC microgrid integrating renewables and storage devices: a smart railway station case study, 12th IFAC Symposium on Control of Power & Energy Systems (CPES), Morocco, 2024](https://hal.science/hal-04576820).
 
-- [Y. Takayama, K. Hashimoto, and T. Ohtsuka, "Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications," IEEE Conference on Decision and Control (CDC), Singapore, 2023](https://ieeexplore.ieee.org/document/103836055).
+- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications," IEEE Conference on Decision and Control (CDC), Singapore, 2023](https://ieeexplore.ieee.org/document/103836055).
 
-- [Yoshinari Takayama, Kenta Hoshino, and Toshiyuki Ohtsuka, "Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems," IEEE Conference on Decision and Control (CDC), Mexico, 2022](https://ieeexplore.ieee.org/document/9992595).
+- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems," IEEE Conference on Decision and Control (CDC), Mexico, 2022](https://ieeexplore.ieee.org/document/9992595).
 
 #### *Domestic Conferences*
-- [高山善成, 星野健太, 大塚敏之, シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI）, 2022](https://cir.nii.ac.jp/crid/1520010842629404544)
+- 高山善成, 星野健太, 大塚敏之, ["シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI）, 2022](https://cir.nii.ac.jp/crid/1520010842629404544).
 
-#### *Others*
-- [Y. Takayama, Structure-Exploiting Optimization for Control with Signal Temporal Logic Specifications, 3rd workshop of the RTE Chair at CentraleSupélec, 2023](https://csrte23.sciencesconf.org/)
+#### *Other Talks*
+- ["Structure-Exploiting Optimization for Control with Signal Temporal Logic Specifications, 3rd workshop of the RTE Chair at CentraleSupélec, 2023](https://csrte23.sciencesconf.org/).
 
 
 <!--
