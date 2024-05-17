@@ -32,7 +32,7 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
  * Hybrid Dynamical System
  * Control Theory
  * Symbolic Methods
-
+ * Power Systems
 
 <!--The problems of __control and verification of Hybrid Dynamical Systems__ are generally tough to deal with, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. 
  Such hybrid systems are becoming very complex, and so the specification requirements are.
@@ -50,27 +50,33 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-I learned Nonlinear Control, Model Predictive Control, Optimization (systems and control) in Ohtsuka lab, and I am learning Formal Methods and automata theory in Hasuo lab, 
-both of which are needed to tackle the problems of control  and verification of Cyber-Physical System, the core of my research interests.
-
 */</style>
 
 ### *Publications*
 ---------------------------------------
+#### *Peer-reviewed Journal Papers*
 - Y. Takayama, K. Hashimoto, and T. Ohtsuka, "STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications," 2023 [[arXiv](https://arxiv.org/abs/2305.09441)] [[code](https://github.com/yotakayama/stlccp)]
 
-- Y. Takayama, K. Hashimoto, and T. Ohtsuka, "Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications," 2023 [[arXiv](https://arxiv.org/abs/2304.01475)]
+#### *Peer-Reviewed Conferences*
+- Yoshinari Takayama, Adnane Saoud, Alessio Iovine, Iterative Optimization-based Control of a Class of Mixed Logical Dynamical Systems with STL Specifications: A Case Study on Microgrids, 8th IFAC Conference on Nonlinear Model Predictive Control (NMPC), Japan, 2024, [[url](https://hal.science/hal-04548049)].
 
-- Yoshinari Takayama, Kenta Hoshino, and Toshiyuki Ohtsuka, "Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems," IEEE Conference on Decision and Control (CDC), 2022 [[url](https://ieeexplore.ieee.org/document/9992595)]
+- Yoshinari Takayama, Adnane Saoud, Alessio Iovine, Power management via STL specifications of a DC microgrid integrating renewables and storage devices: a smart railway station case study, 12th IFAC Symposium on Control of Power & Energy Systems (CPES), Morocco, 2024, [[url](https://hal.science/hal-04576820)].
 
+- Y. Takayama, K. Hashimoto, and T. Ohtsuka, "Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications," IEEE Conference on Decision and Control (CDC), Singapore, 2023 [[url](https://ieeexplore.ieee.org/document/103836055)]
+
+- Yoshinari Takayama, Kenta Hoshino, and Toshiyuki Ohtsuka, "Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems," IEEE Conference on Decision and Control (CDC), Mexico, 2022 [[url](https://ieeexplore.ieee.org/document/9992595)]
+
+#### *Domestic Conferences*
 - 高山善成, 星野健太, 大塚敏之, シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI）, 2022 [[url](https://cir.nii.ac.jp/crid/1520010842629404544)]
 
-### *Others*
----------------------------------------
+#### *Others*
 - Y. Takayama, Structure-Exploiting Optimization for Control with Signal Temporal Logic Specifications, 3rd workshop of the RTE Chair at CentraleSupélec, 2023 [[url](https://csrte23.sciencesconf.org/)]
 
-<!--
-### *Twitter*
+
+
+### *News*
 ---------------------------------------
 {% twitter https://twitter.com/newewen_ maxwidth=500 limit=5 %}
+<!--
+
 -->
