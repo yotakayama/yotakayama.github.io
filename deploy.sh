@@ -9,5 +9,7 @@ git commit -m "CPES and NMPC"
 # Install dependencies using bundle install
 bundle install
 
-# Deploy the application to the master branch from the source directory
-bin/deploy -d master -s source
+# Use expect to automate confirmation
+expect -c '
+spawn bin/deploy -d master -s source
+expect "Do you want to proceed? [y/N]" { send "y\r" }
