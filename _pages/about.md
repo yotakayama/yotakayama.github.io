@@ -73,10 +73,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 - Y. Takayama, Structure-Exploiting Optimization for Control with Signal Temporal Logic Specifications, 3rd workshop of the RTE Chair at CentraleSupélec, 2023 [[url](https://csrte23.sciencesconf.org/)]
 
 
-
+<!--
 ### *News*
 ---------------------------------------
-{% twitter https://twitter.com/newewen_ maxwidth=500 limit=5 %}
-<!--
+{% twitter https://twitter.com/newewen_ maxwidth=500 limit=3 %}
+
 
 -->
