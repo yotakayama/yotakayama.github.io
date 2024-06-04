@@ -62,12 +62,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 - Yoshinari Takayama, Adnane Saoud, Alessio Iovine, ["Power management via STL specifications of a DC microgrid integrating renewables and storage devices: a smart railway station case study"](https://hal.science/hal-04576820), 12th IFAC Symposium on Control of Power & Energy Systems (CPES), Morocco, 2024.
 
-- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications"](https://ieeexplore.ieee.org/document/103836055), IEEE Conference on Decision and Control (CDC), Singapore, 2023.
+- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications"](https://ieeexplore.ieee.org/document/10383605), IEEE Conference on Decision and Control (CDC), Singapore, 2023.
 
 - Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems"](https://ieeexplore.ieee.org/document/9992595), IEEE Conference on Decision and Control (CDC), Mexico, 2022.
 
 #### *Domestic Conferences*
-- 高山善成, 星野健太, 大塚敏之, ["シチジー加群を用いた多項式システムの有限時間整定制御則設計法, システム制御情報学会研究発表講演会（SCI](https://cir.nii.ac.jp/crid/1520010842629404544), Japan, 2022.
+- 高山善成, 星野健太, 大塚敏之, ["Design of Finite-Time Stabilizing Feedback Laws for Polynomial Systems Using Syzygy Modules (シチジー加群を用いた多項式システムの有限時間整定制御則設計法)](https://cir.nii.ac.jp/crid/1520010842629404544), システム制御情報学会研究発表講演会（SCI）, Japan, 2022.
 
 #### *Other Talks*
 - ["Structure-Exploiting Optimization for Control with Signal Temporal Logic Specifications](https://csrte23.sciencesconf.org/), 3rd workshop of the RTE Chair at CentraleSupélec, 2023.
