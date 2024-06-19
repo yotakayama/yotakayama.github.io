@@ -17,11 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 # Université Paris-Saclay, CNRS, Laboratoire des Signaux et Systèmes, 91190, Gif-sur-Yvette, France
 ---
 
-Hi, I am Yoshinari Takayama, a PhD student at the [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr), a joint research unit of [Centrale Supélec](https://www.centralesupelec.fr/en/),[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/) and [CNRS](https://www.cnrs.fr/en/) in France. My research focuses on the control and verification of cyber-physical systems using symbolic methods, with a particular emphasis on power systems applications. The thesis is funded by the French National Research Agency (ANR).
+ My name is Yoshinari Takayama, a PhD student at the [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr), a joint research unit of [Centrale Supélec](https://www.centralesupelec.fr/en/),[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/) and [CNRS](https://www.cnrs.fr/en/) in France. My research focuses on the control and verification of cyber-physical systems using symbolic methods, with a particular emphasis on power systems applications. The thesis is funded by the French National Research Agency (ANR).
 
 Between 2021 and 2023, I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervison of [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), Japan. Between 2017 and 2021, I completed my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan.
 
-
+My CV is available [here](https://drive.google.com/file/d/1FFlvlByPZ8seLxW2Yf-DGnhsj_xvpILw/view?usp=sharing).
  <style>/*
  ---------------------------------------
 I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan. My research supervisor is <a href="http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm">Toshiyuki Ohtsuka</a>.
@@ -29,10 +29,12 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
 
 ### *Research Interests*
 ---------------------------------------
- * Hybrid Dynamical System
- * Control Theory
- * Symbolic Methods
- * Power Systems
+ * Optimizations
+ * Controls
+ * Formal Methods
+ * Machine Learning 
+ * Applications
+ 
 
 <!--The problems of __control and verification of Hybrid Dynamical Systems__ are generally tough to deal with, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. 
  Such hybrid systems are becoming very complex, and so the specification requirements are.
@@ -51,6 +53,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 */</style>
+
+
 
 ### *Publications*
 ---------------------------------------
