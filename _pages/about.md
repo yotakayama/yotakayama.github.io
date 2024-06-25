@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 Between 2021 and 2023, I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervison of [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), Japan. Between 2017 and 2021, I completed my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan.
 
-My CV is available [here](https://drive.google.com/file/d/1nW5-B-L-vAPIdfEPJ-QdGn6ju0m_MbiY/view?usp=sharing). Please contact me via [email]() for the most updated version.
+My CV is available [here](https://drive.google.com/file/d/1nW5-B-L-vAPIdfEPJ-QdGn6ju0m_MbiY/view?usp=sharing). Please contact me via [email](up46564qu@gmail.com) for the most updated version.
  <style>/*
  ---------------------------------------
 I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan. My research supervisor is <a href="http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm">Toshiyuki Ohtsuka</a>.
