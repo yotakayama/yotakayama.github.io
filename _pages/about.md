@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 # Université Paris-Saclay, CNRS, Laboratoire des Signaux et Systèmes, 91190, Gif-sur-Yvette, France
 ---
 
- My name is Yoshinari Takayama, currently a researchear at the [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr), a joint research unit of [Centrale Supélec](https://www.centralesupelec.fr/en/),[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/) and [CNRS](https://www.cnrs.fr/en/) in France, under [Alessio Iovine](https://sites.google.com/view/alessioiovine/) and [Adnane Saoud](https://sites.google.com/view/adnanesaoud/). My research focuses on the control of cyber-physical systems using formal methods, with a particular emphasis on power systems applications. The thesis is funded by the French National Research Agency (ANR).
+ My name is Yoshinari Takayama, currently a researchear at the [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr), a joint research unit of [Centrale Supélec](https://www.centralesupelec.fr/en/),[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/) and [CNRS](https://www.cnrs.fr/en/) in France, under [Alessio Iovine](https://sites.google.com/view/alessioiovine/) and [Adnane Saoud](https://sites.google.com/view/adnanesaoud/) funded by the French National Research Agency (ANR).
 
 Between 2021 and 2023, I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervison of [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), Japan. Between 2017 and 2021, I completed my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan.
 
@@ -29,19 +29,18 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
 
 ### *Research Interests*
 ---------------------------------------
- * Optimizations
- * Controls
- * Formal Methods
- * Machine Learning 
- * Applications
- 
-
-<!--The problems of __control and verification of Hybrid Dynamical Systems__ are generally tough to deal with, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. 
- Such hybrid systems are becoming very complex, and so the specification requirements are.
- the mathematical approaches developed in the field of 
-My research focuses on analysis and control of cyber physical system (CPS), using the method of __optimization, control theory, formal methods and machine learning__. --> 
+ * cyber-physical systems
+ * optimization
+ * temporal reasoning
+ * large language models
 
  <style>/*
+ __Control and verification of Cyber Physical Systems__: are generally tough, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. 
+ Such hybrid systems are becoming very complex, and so the specification requirements are.
+ the mathematical approaches developed in the field of 
+My research focuses on control of cyber physical system (CPS), using the method of __optimization, control theory, formal methods and machine learning__. 
+
+
 I use tools from the field of control theory, such as optimal control, Lyapunov's method, stability, and nonlinear control mainly to deal with continuous dynamics.
 
 I use tools from the field of formal method, such as temporal logic, automata theory, category theory, and other abstract algebraic methods mainly to specify requirements and to deal with discrete dynamics.
