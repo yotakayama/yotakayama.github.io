@@ -19,22 +19,41 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
  My name is Yoshinari Takayama, currently a researchear at the [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr), a joint research unit of [Centrale Supélec](https://www.centralesupelec.fr/en/),[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/) and [CNRS](https://www.cnrs.fr/en/) in France, under [Alessio Iovine](https://sites.google.com/view/alessioiovine/) and [Adnane Saoud](https://sites.google.com/view/adnanesaoud/) funded by the French National Research Agency (ANR).
 
-Between 2021 and 2023, I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), under the supervison of [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), Japan. Between 2017 and 2021, I completed my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan.
+Between 2021 and 2023, I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), under [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), Japan. Between 2017 and 2021, I completed my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan.
 
-My CV is available [here](https://drive.google.com/file/d/1UF-xSUt42NeCobBX2o89UOWqrAKKEh-z/view?usp=sharing). Please contact me via [email](up46564qu@gmail.com) for the most updated version.
  <style>/*
+ My CV is available [here](https://drive.google.com/file/d/1UF-xSUt42NeCobBX2o89UOWqrAKKEh-z/view?usp=sharing). Please contact me via [email](up46564qu@gmail.com) for the most updated version.
  ---------------------------------------
 I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan. My research supervisor is <a href="http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm">Toshiyuki Ohtsuka</a>.
  */</style>
 
 ### *Research Interests*
 ---------------------------------------
- * cyber-physical systems
- * optimization
- * temporal reasoning
- * large language models
+My research passion lie at the intersection of safe learning, formal verification, and cyber-physical systems. Recently, I've begun to explore their applications in addressing hallucinations in Large Language Models (LLMs), particularly in the domain of temporal reasoning. Several keywords include:
+
+* **Safe learning and control**: Developing innovative stochastic frameworks to ensure ethical and reliable LLM performance. 
+* **Optimization algortihm**: Designing efficient algorithms for formal specifications and temporal reasoning. 
+* **Formal methods and cyber-physical systems**: Applying methods from control theory, symbolic reasoning, and Bayesian approaches to probabilistically guarantee the behavior of real world systems.
+
 
  <style>/*
+
+ * Safe Learning Frameworks: Developing innovative stochastic frameworks to ensure ethical and reliable LLM performance. 
+
+* Formal Verification for AI: Applying methods from control theory, symbolic reasoning, and Bayesian approaches to probabilistically guarantee the behavior of LLMs
+
+* Optimization Algorithms: Designing efficient algorithms for formal specifications and temporal reasoning. My STLCCP algorithm has improved processing speed for temporal logic constraints.
+
+* Key Research Areas:
+a) Control theory and reinforcement learning
+b) Formal verification and symbolic methods
+c) Stochastic programming and Bayesian approaches
+
+* Hallucination Mitigation: Advancing techniques like Reinforcement Learning from Human Feedback (RLHF) to reduce LLM hallucinations.
+ Hallucination Mitigation: I focus on tackling LLM hallucinations, particularly in the temporal reasoning domain. The Reinforcement Learning from Human Feedback (RLHF) framework is one approach I'm exploring to address this challenge.
+Probabilistic Guarantees: I investigate how we can provide probabilistic guarantees against hallucinations in LLMs and potential Artificial General Intelligence systems.
+Interdisciplinary Approach:
+
  __Control and verification of Cyber Physical Systems__: are generally tough, due to the hybrid nature of CPS, in which both continuous and discrete dynamics exist. 
  Such hybrid systems are becoming very complex, and so the specification requirements are.
  the mathematical approaches developed in the field of 
@@ -57,7 +76,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ### *Publications*
 ---------------------------------------
-#### *Peer-reviewed Journal Papers*
+#### *Preprints*
 - Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications"](https://arxiv.org/abs/2305.09441), 2023. [[code](https://github.com/yotakayama/stlccp)]
 
 #### *Peer-Reviewed Conferences*
