@@ -31,10 +31,9 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
 ---------------------------------------
 My research passion lie at the intersection of safe learning, formal verification, and cyber-physical systems. Recently, I've begun to explore their applications in addressing hallucinations in Large Language Models (LLMs), particularly in the domain of temporal reasoning. Several keywords include:
 
-* **Safe learning and control**: Developing innovative stochastic frameworks to ensure ethical and reliable LLM performance. 
-* **Optimization algortihm**: Designing efficient algorithms for formal specifications and temporal reasoning. 
-* **Formal methods and cyber-physical systems**: Applying methods from control theory, symbolic reasoning, and Bayesian approaches to probabilistically guarantee the behavior of real world systems.
-
+* **Safe learning and control**
+* **Optimization algortihm**
+* **cyber-physical systems and Formal methods** 
 
  <style>/*
 
