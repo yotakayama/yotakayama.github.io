@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 # Université Paris-Saclay, CNRS, Laboratoire des Signaux et Systèmes, 91190, Gif-sur-Yvette, France
 ---
 ---------------------------------------
- My name is Yoshinari Takayama, currently a researchear at the [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr), a joint research unit of [Centrale Supélec](https://www.centralesupelec.fr/en/),[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/) and [CNRS](https://www.cnrs.fr/en/) in France, under [Alessio Iovine](https://sites.google.com/view/alessioiovine/) and [Adnane Saoud](https://sites.google.com/view/adnanesaoud/) funded by the French National Research Agency (ANR).
+I'm a 3rd-year Ph.D. student in Automatic Control at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr), [CentraleSupélec](https://www.centralesupelec.fr/en/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en/) in France, where I’m fortunate to be advised by Profs. [Alessio Iovine](https://sites.google.com/view/alessioiovine/) and [Adnane Saoud](https://sites.google.com/view/adnanesaoud/) and funded by the French National Research Agency (ANR).
 
-Between 2021 and 2023, I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), under [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), Japan. Between 2017 and 2021, I completed my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan.
+I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), where I was fortunate to be advised by Prof. [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), and my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, also at Kyoto University.
 
  <style>/*
  My CV is available [here](https://drive.google.com/file/d/1UF-xSUt42NeCobBX2o89UOWqrAKKEh-z/view?usp=sharing). Please contact me via [email](up46564qu@gmail.com) for the most updated version.
@@ -54,13 +54,14 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
 <h2>Research Interests</h2>
 </div>
 ---------------------------------------
-My research passion lies at the intersection of safe learning, formal verification, and cyber-physical systems. I've begun to explore their applications in the theoretical foundations of fine-tuning RL algorithms for Foundational Models. 
+I'm passionate about developing safe and reliable AI for real-world systems, with a focus on bridging **machine learning** and **formal methods** for cyber-physical systems. My current interests include:
 
-* **Safe learning and control**
-* **Optimization algortihm**
-* **Cyber-physical systems and formal methods** 
-* **Applications to power systems** 
+- **Safe Learning and Control:** Enhancing reinforcement learning (RL) and model predictive control (MPC) with formal safety guarantees.  
+- **Optimization Algorithms:** Designing efficient optimization techniques for decision-making under uncertainty.  
+- **Cyber-Physical Systems:** Applying formal verification and control theory to guarantee safety and performance in complex systems.  
+- **Applications to Power Systems:** Modeling and controlling power networks with robustness against disturbances and uncertainties.  
 
+Recently, I've started exploring the **theoretical foundations of fine-tuning RL algorithms** for foundational models, aiming to improve their adaptability and generalization capabilities.
 
  <style>/*
 
