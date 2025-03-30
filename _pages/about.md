@@ -76,7 +76,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ### *Publications*
 ---------------------------------------
 #### *Preprints*
-- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications"](https://arxiv.org/abs/2305.09441), 2023. [[code](https://github.com/yotakayama/stlccp)]
+
+
+#### *Peer-reviewed journal papers*
+- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications"](https://ieeexplore.ieee.org/document/10945441), IEEE Transactions on Automatic Control (Full Paper), 2025. [[code](https://github.com/yotakayama/stlccp)]
 
 #### *Peer-Reviewed Conferences*
 - Yoshinari Takayama, Adnane Saoud, Alessio Iovine, ["Iterative Optimization-based Control of a Class of Mixed Logical Dynamical Systems with STL Specifications: A Case Study on Microgrids"](https://hal.science/hal-04548049), 8th IFAC Conference on Nonlinear Model Predictive Control (NMPC), Japan, 2024.
