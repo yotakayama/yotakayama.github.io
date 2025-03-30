@@ -1,11 +1,22 @@
 ---
 layout: default
 ---
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.post-title {
+  font-family: 'Great Vibes', cursive;
+  font-size: 45px;  /* Adjust the size */
+  font-weight: bold;   /* Bold for better visibility */
+  color: #4C96B6;  /* Magical purple */
+  /* text-shadow: 3px 3px 5px rgba(128, 0, 128, 0.5);  Glowing effect */
+}
+</style>
 <!-- page.html -->
         <div class="post">
 
           <header class="post-header">
-            <h3 class="post-title"><i>{{ page.title }}</i></h3>
+            <h1 class="post-title">{{ page.title }}<hr></h1>
             <p class="post-description">{{ page.description }}</p>
           </header>
 

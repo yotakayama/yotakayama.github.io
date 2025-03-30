@@ -1,0 +1,30 @@
+- title: 学歴
+  type: time_table
+  contents:
+    - title: パリ・サクレー大学 セントラルシュペレック校 シグナル・システム研究所（L2S） 博士課程
+      year: 2023.5 - 2026.4
+    - title: 京都大学大学院 情報学研究科 修士課程 (情報学専攻)
+      year: 2021.4 - 2023.3
+    - title: 京都大学 工学部 情報学科 数理工学コース 学士課程
+      year: 2017.4 - 2021.3
+
+- title: 教育経験
+  type: time_table
+  contents:
+    - year: 2021.4 - 2023.1
+      items: 京都大学 機械システム工学実験3 (春・秋) ティーチングアシスタント
+    - year: 2021.4 - 2021.7
+      items: 京都大学 基礎情報演習 (工学部) (春) ティーチングアシスタント
+
+- title: 受賞歴
+  type: time_table
+  contents:
+    - year: 2023.3
+      items: 
+        - システム制御情報学会 学会賞奨励賞
+    - year: 2023.3
+      items: 
+        - SICE International Young Authors Award (CDC'22)
+    - year: 2022.5
+      items: 
+        - 学生優秀発表賞 (SCI'22)

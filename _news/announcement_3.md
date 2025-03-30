@@ -4,4 +4,4 @@ date: 2022-05-15 07:59:00-0400
 inline: true
 ---
 
-I was awarded the [Student Presentation Award from The institute of Systems, Control and Information Engineers (システム制御情報学会 学生発表賞)](https://sci22.iscie.or.jp/award/)（5/18-5/20@Kyoto, Kyoto）．
+My paper, which I submitted during my master's as the first and corresponding author, has finally been accepted as a full paper by *IEEE Transactions on Automatic Control* after two years of rigorous review rounds — perhaps the most rewarding news of my life...! Early access is available [here](https://ieeexplore.ieee.org/document/10945441).

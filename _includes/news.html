@@ -1,6 +1,17 @@
-          
-          <div class="news">
-            <h3><i>News</i><hr></h3>
+<style>
+  .news h2 {
+      font-family: 'Georgia', cursive;
+      font-size: 30px;    /* Larger font size */
+      color: #4C96B6;       /* Purple color */
+      font-weight: bold;   /* Bold for better visibility */
+      margin-top: 30px;    /* Add some spacing between sections */
+  }
+  </style>
+
+
+
+<div class="news">
+            <h2>News<hr></h2>
             {% if site.news != blank -%} 
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if site.news_scrollable and news_size > 10 %}style="max-height: 10vw"{% endif %}>

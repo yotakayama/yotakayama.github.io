@@ -6,8 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: PhotoOfMe.PNG
-  image_cicular: true # crops the image to make it circular
+  image: yoshinari2.jpg
+  image_cicular: false # crops the image to make it circular
 
 
 social: true  # includes social icons at the bottom of the page
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 # Université Paris-Saclay, CNRS, Laboratoire des Signaux et Systèmes, 91190, Gif-sur-Yvette, France
 ---
-
+---------------------------------------
  My name is Yoshinari Takayama, currently a researchear at the [Laboratoire des Signaux et Systèmes (L2S)](https://l2s.centralesupelec.fr), a joint research unit of [Centrale Supélec](https://www.centralesupelec.fr/en/),[Université Paris-Saclay](https://www.universite-paris-saclay.fr/en/) and [CNRS](https://www.cnrs.fr/en/) in France, under [Alessio Iovine](https://sites.google.com/view/alessioiovine/) and [Adnane Saoud](https://sites.google.com/view/adnanesaoud/) funded by the French National Research Agency (ANR).
 
 Between 2021 and 2023, I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), under [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), Japan. Between 2017 and 2021, I completed my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan.
@@ -25,15 +25,42 @@ Between 2021 and 2023, I completed my master's degree at the Graduate School of 
  My CV is available [here](https://drive.google.com/file/d/1UF-xSUt42NeCobBX2o89UOWqrAKKEh-z/view?usp=sharing). Please contact me via [email](up46564qu@gmail.com) for the most updated version.
  ---------------------------------------
 I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), Japan. My research supervisor is <a href="http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm">Toshiyuki Ohtsuka</a>.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023.3
+      items: 
+        - システム制御情報学会　学会賞奨励賞
+    - year: 2023.3
+      items: 
+        - SICE International Young Authors Award (CDC'22)
+    - year: 2022.5
+      items: 
+        - 学生優秀発表賞 (SCI'22) 
  */</style>
 
-### *Research Interests*
+<style>
+.about h2 {
+    font-family: 'Georgia', cursive;
+    font-size: 30px;    /* Larger font size */
+    color: #4C96B6;       /* Purple color */
+    font-weight: bold;   /* Bold for better visibility */
+    margin-top: 30px;    /* Add some spacing between sections */
+}
+</style>
+
+<div class="about">
+<h2>Research Interests</h2>
+</div>
 ---------------------------------------
-My research passion lie at the intersection of safe learning, formal verification, and cyber-physical systems. I've begun to explore their applications in the theoretical foundations of fine-tuning RL algorithms for Foundational Models. 
+My research passion lies at the intersection of safe learning, formal verification, and cyber-physical systems. I've begun to explore their applications in the theoretical foundations of fine-tuning RL algorithms for Foundational Models. 
 
 * **Safe learning and control**
 * **Optimization algortihm**
 * **Cyber-physical systems and formal methods** 
+* **Applications to power systems** 
+
 
  <style>/*
 
@@ -71,30 +98,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 */</style>
 
-
-
-### *Publications*
----------------------------------------
-#### *Preprints*
-
-
-#### *Peer-reviewed journal papers*
-- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["STLCCP: An Efficient Convex Optimization-based Framework for Signal Temporal Logic Specifications"](https://ieeexplore.ieee.org/document/10945441), IEEE Transactions on Automatic Control (Full Paper), 2025. [[code](https://github.com/yotakayama/stlccp)]
-
-#### *Peer-Reviewed Conferences*
-- Yoshinari Takayama, Adnane Saoud, Alessio Iovine, ["Iterative Optimization-based Control of a Class of Mixed Logical Dynamical Systems with STL Specifications: A Case Study on Microgrids"](https://hal.science/hal-04548049), 8th IFAC Conference on Nonlinear Model Predictive Control (NMPC), Japan, 2024.
-
-- Yoshinari Takayama, Adnane Saoud, Alessio Iovine, ["Power management via STL specifications of a DC microgrid integrating renewables and storage devices: a smart railway station case study"](https://hal.science/hal-04576820), 12th IFAC Symposium on Control of Power & Energy Systems (CPES), Morocco, 2024.
-
-- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["Signal Temporal Logic Meets Convex-Concave Programming: A Structure-Exploiting SQP Algorithm for STL Specifications"](https://ieeexplore.ieee.org/document/10383605), IEEE Conference on Decision and Control (CDC), Singapore, 2023.
-
-- Yoshinari Takayama, Kenta Hoshino, Toshiyuki Ohtsuka, ["Algebraic Approach to Global Finite-Time Stabilization of Multi-Input Polynomial Systems"](https://ieeexplore.ieee.org/document/9992595), IEEE Conference on Decision and Control (CDC), Mexico, 2022.
-
-#### *Domestic Conferences*
-- 高山善成, 星野健太, 大塚敏之, ["Design of Finite-Time Stabilizing Feedback Laws for Polynomial Systems Using Syzygy Modules (シチジー加群を用いた多項式システムの有限時間整定制御則設計法)](https://cir.nii.ac.jp/crid/1520010842629404544), システム制御情報学会研究発表講演会（SCI）, Japan, 2022.
-
-#### *Other Talks*
-- ["Structure-Exploiting Optimization for Control with Signal Temporal Logic Specifications](https://csrte23.sciencesconf.org/), 3rd workshop of the RTE Chair at CentraleSupélec, 2023.
 
 
 <!--

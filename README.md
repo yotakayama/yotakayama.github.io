@@ -2,7 +2,7 @@ githubの扱い
 current branch source
 git add .
 git commit -am ""
-bin/deploy -d master -s sourceかbundle exec jekyll 
+bin/deploy -d master -s sourceかbundle exec jekyll serve
 だが，jekyllをやると，ブランチがsourceからmasterになるので，そこからdeployするときに，masterー＞origin/masterにだしてしまうことになる．それをさけるため，ローカルのmasterブランチだけを消した．
 (deployは違うフォルダに対して行わなければならないよう)
 

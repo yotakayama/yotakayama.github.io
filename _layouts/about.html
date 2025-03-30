@@ -1,13 +1,21 @@
 ---
 layout: default
 ---
-
+<style>
+  .post-title {
+    font-family: 'Georgia', cursive;
+    font-size: 40px;    /* Larger font size */
+    color: #4C96B6;       /* Purple color */
+    font-weight: bold;   /* Bold for better visibility */
+    margin-top: 30px;    /* Add some spacing between sections */
+  }
+</style>
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h2 class="post-title"><i>
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </i></h2>
+          <h2 class="post-title">
+           {% if site.title == "blank" -%}<span class="font-weight-bold">Biography</span>{%- else -%}<span class="post-title">Biography</span>{%- endif %}
+          </h2>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
