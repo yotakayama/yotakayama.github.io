@@ -1,3 +1,10 @@
+<style>
+  .titlename {
+    font-family: 'Georgia', cursive;
+    font-size: 22px;    /* Larger font size */
+    color: #4C96B6;       /* Purple color */ 
+  }
+</style>
 
     <header>
 
@@ -6,7 +13,7 @@
         <div class="container">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
-              {%- if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{%- else -%}<h5>{{ site.title }}</h5>{%- endif -%}
+              {%- if site.title == "blank" -%}<span class="titlename">Yoshinari Takayama</span>{%- else -%}<span class="titlename">Yoshinari Takayama</span>{%- endif -%}
           </a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
