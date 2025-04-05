@@ -7,7 +7,8 @@
           {% if entry.preview contains '://' -%}
           <img class="preview z-depth-1 rounded" 
             src="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}" 
-            style="width: {{ entry.img_width | default: '150px' | append: '; height: ' | append: entry.img_height | default: 'auto' }};">
+            style="width: {{ entry.img_width | default: '150' | append: 'px' | strip }}; 
+                    height: {{ entry.img_height | default: 'auto' | strip }};">
           {%- else -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}">
           {%- endif -%}

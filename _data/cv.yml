@@ -3,11 +3,11 @@
   contents:
     #- title: PhD student
     #  year: 2023.4 - 
-    - title: Ph.D. at the Laboratory of Signals and Systems (L2S), CentraleSupélec, Paris-Saclay University
+    - title: Ph.D. at the Laboratory of Signals and Systems (L2S), CentraleSupélec, Paris-Saclay University, France
       year: 2023.5 - 2026.4
-    - title: Master of Informatics, Graduate School of Informatics, Kyoto University
+    - title: Master of Informatics, Graduate School of Informatics, Kyoto University, Japan
       year: 2021.4 - 2023.31
-    - title: Bachelor of Informatics, School of Informatics and Mathematical Science, Faculty of Engineering, Kyoto University
+    - title: Bachelor of Informatics, School of Informatics and Mathematical Science, Faculty of Engineering, Kyoto University, Japan
       year: 2017.4 - 2021.3
 
 
@@ -16,8 +16,8 @@
   type: time_table
   contents:
     - year: 2021.4 - 2023.1
-      items: Teaching assistant for Mechanical Systems Engineering Experiment 3 (spring, fall), Kyoto University
+      items: Teaching assistant for Mechanical Systems Engineering Experiment 3 (spring, fall), Kyoto University, Japan
     - year: 2021.4 - 2021.7
-      items: Teaching assistant for Basic Information Exercise (Faculty of Engineering) (spring), Kyoto University
+      items: Teaching assistant for Basic Information Exercise (Faculty of Engineering) (spring), Kyoto University, Japan
 
 

@@ -21,6 +21,7 @@ I'm a 3rd-year Ph.D. student in Automatic Control at the [Laboratory of Signals 
 
 I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), where I was fortunate to be advised by Prof. [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), and my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, also at Kyoto University.
 
+- Click the logos in the header or footer to visit my LinkedIn, Google Scholar, ORCID, X (Twitter), or send me an email.
  <style>/*
  My CV is available [here](https://drive.google.com/file/d/1UF-xSUt42NeCobBX2o89UOWqrAKKEh-z/view?usp=sharing). Please contact me via [email](up46564qu@gmail.com) for the most updated version.
  ---------------------------------------
@@ -56,9 +57,9 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
 ---------------------------------------
 I'm passionate about developing safe and reliable AI for real-world systems, with a focus on bridging **machine learning** and **formal methods** for cyber-physical systems. My current interests include:
 
-- **Safe Learning and Control:** Enhancing reinforcement learning (RL) and model predictive control (MPC) with formal safety guarantees.  
 - **Optimization Algorithms:** Designing efficient optimization techniques for decision-making under uncertainty.  
-- **Cyber-Physical Systems:** Applying formal verification and control theory to guarantee safety and performance in complex systems.  
+- **Cyber-Physical Systems:** Applying formal verification and control theory to guarantee safety and performance in complex systems.
+- **Safe Learning and Control:** Enhancing reinforcement learning (RL) and model predictive control (MPC) with formal safety guarantees.    
 - **Applications to Power Systems:** Modeling and controlling power networks with robustness against disturbances and uncertainties.  
 
 Recently, I've started exploring the **theoretical foundations of fine-tuning RL algorithms** for foundational models, aiming to improve their adaptability and generalization capabilities.
