@@ -16,8 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 # Université Paris-Saclay, CNRS, Laboratoire des Signaux et Systèmes, 91190, Gif-sur-Yvette, France
 ---
+- ⬆️ Check out my Email, ORCID, Google Scholar, GitHub, LinkedIn, and X (Twitter) via the icons above.
+
 ---------------------------------------
-I'm a 3rd-year Ph.D. student in control system engineering at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr), [CentraleSupélec](https://www.centralesupelec.fr/en/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en/) in France, where I’m fortunate to be advised by Profs. [Alessio Iovine](https://sites.google.com/view/alessioiovine/) and [Adnane Saoud](https://sites.google.com/view/adnanesaoud/) and funded by the French National Research Agency (ANR).
+I'm a 3rd-year Ph.D. student in control system engineering at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr), [CentraleSupélec](https://www.centralesupelec.fr/en/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en/) in France, where I’m fortunate to be funded by the French National Research Agency (ANR).
 
 I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), where I was fortunate to be advised by Prof. [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), and my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, also at Kyoto University.
  <style>/*
