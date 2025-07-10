@@ -16,7 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 # Université Paris-Saclay, CNRS, Laboratoire des Signaux et Systèmes, 91190, Gif-sur-Yvette, France
 ---
-- ⬆️ Check out my Email, ORCID, Google Scholar, GitHub, LinkedIn, and X (Twitter) via the icons above.
 
 ---------------------------------------
 I'm a 3rd-year Ph.D. student in control system engineering at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr), [CentraleSupélec](https://www.centralesupelec.fr/en/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en/) in France, where I’m fortunate to be funded by the French National Research Agency (ANR).
