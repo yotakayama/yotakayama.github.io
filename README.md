@@ -1,24 +1,47 @@
-githubの扱い
-current branch source
+
+**GitHub Workflow Notes**
+
+**Current branch:** `source`
+
+```bash
 git add .
 git commit -am ""
-bin/deploy -d master -s sourceかbundle exec jekyll serve
-だが，jekyllをやると，ブランチがsourceからmasterになるので，そこからdeployするときに，masterー＞origin/masterにだしてしまうことになる．それをさけるため，ローカルのmasterブランチだけを消した．
-(deployは違うフォルダに対して行わなければならないよう)
+bin/deploy -d master -s source
+# or
+bundle exec jekyll serve
+```
 
+**Important:** Running Jekyll switches the branch from `source` to `master`. Deploying from there would push `master` → `origin/master` unintentionally. To avoid this, delete the local `master` branch after deploying.
+*(Deployment must be run from a different folder.)*
 
+**Deploy flow:**
+Deploy from `source` — the output goes into `origin/master`. If deployment succeeds, the branch should automatically return to `source` when done.
+*(Note: `origin/master` here refers to a local branch.)*
 
-source(.githubなどのファイル存在する)をdeployして、originのmasterに入る。deployがうまくいけば、終わった後はsourceにbranchが戻っているはずである。
-(origin/masterはlocalであることに注意）
+**Accidentally created a stray branch/directory?**
+Run `git fetch -p` to prune it.
 
-事故的にディレクトリを作成したら、git fetch -pをして消せる。
+**Do NOT run:**
+```bash
+git checkout source
+git merge master
+```
+This will delete files like `.deploy`. If you accidentally did this, recover with:
+```bash
+git reset --hard <commit>
+```
 
-git checkout source, git merge master はしないこと。これをやると、.deployなどのファイルが消える。もししてしまったら、git reset --hard ...
+**Missing gem files?**
+Xcode may not be installed or updated. Check your Xcode installation.
 
+**Port 4000 already in use?**
+Find and kill the process:
+```bash
+ps -ax | grep 127.0.0.1:4000
+# then kill <PID>
+```
 
-gem のファイルがないよと言われたら、xcodeがアップロードされてない可能性がある。
-
-
-portが埋まってしまったら、killをするわけだが、ps -ax | grep 127.0.0.1:4000
-
-git branch -D
+**Force delete a local branch:**
+```bash
+git branch -D <branch-name>
+```
