@@ -68,7 +68,7 @@ Recently, I've started exploring the **theoretical foundations of fine-tuning RL
 <h2>Academic Services</h2>
 </div>
 ---------------------------------------
-<h3>Journal Reviewer</h3>
+<h4>Journal Reviewer</h4>
 
 - Systems & Control Letters (L-CSS)
 - IEEE Robotics and Automation Letters (IEEE-RAL)

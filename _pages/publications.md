@@ -12,23 +12,23 @@ nav_order: 1
 .selected-work-cta{
   display:flex;align-items:center;gap:18px;flex-wrap:wrap;
   margin:8px 0 36px;padding:20px 24px;
-  border:1px solid #cdbfa8;border-left:4px solid #9a3a1e;border-radius:10px;
-  background:rgba(154,58,30,.04);
+  border:1px solid #c4d2e2;border-left:4px solid #2f6fc0;border-radius:10px;
+  background:rgba(168,209,255,.14);
 }
 .selected-work-cta .swc-text{flex:1;min-width:220px;}
 .selected-work-cta .swc-kicker{
   font-family:"JetBrains Mono",ui-monospace,monospace;
-  font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#9a3a1e;
+  font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#2f6fc0;
   margin-bottom:4px;
 }
-.selected-work-cta .swc-title{font-weight:600;font-size:18px;line-height:1.3;}
+.selected-work-cta .swc-title{font-weight:200;font-size:18px;line-height:1.3;}
 .selected-work-cta a.swc-btn{
   font-family:"JetBrains Mono",ui-monospace,monospace;font-size:12px;
   letter-spacing:.08em;text-transform:uppercase;text-decoration:none;
-  padding:10px 18px;border-radius:100px;background:#9a3a1e;color:#fff;
+  padding:10px 18px;border-radius:100px;background:#2f6fc0;color:#fff;
   white-space:nowrap;transition:.2s;
 }
-.selected-work-cta a.swc-btn:hover{background:#7a2c15;}
+.selected-work-cta a.swc-btn:hover{background:#3f82d8;}
 
 
 .publications h2 {
@@ -40,20 +40,23 @@ nav_order: 1
 }
 </style>
 
+
+<div class="publications">
+
 <div class="selected-work-cta">
   <div class="swc-text">
     <div class="swc-kicker">Research Arc</div>
-    <div class="swc-title">Read the story behind these papers — from tractable logic to a trustworthy architecture.</div>
+    <div class="swc-title">Read the story behind papers [J1,J2,J3] — from tractable logic to a trustworthy architecture.</div>
   </div>
-  <a class="swc-btn" href="/selected-work/">Selected Work →</a>
+  <a class="swc-btn" href="/selected-work2/">Selected Work →</a>
 </div>
-<div class="publications">
 <h2>Preprints</h2>
 {% bibliography -f papers -q @*[type=preprint]* %}
-No preprints at the moment
 
 <h2>Peer-Reviewed Journal Papers</h2>
 {% bibliography -f papers -q @*[type=article]* %}
+
+
 
 <h2>Peer-Reviewed Conference Proceedings</h2>
 {% bibliography -f papers -q @*[type=inproceedings]* %}

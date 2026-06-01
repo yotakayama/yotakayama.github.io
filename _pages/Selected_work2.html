@@ -1,8 +1,8 @@
 ---
 layout: null
-permalink: /selected-work/
+permalink: /selected-work2/
 ---
-<!-- _pages/publications.md -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -13,13 +13,14 @@ permalink: /selected-work/
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,900;1,9..144,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --ink:#1a1714;
-    --paper:#f4efe6;
-    --paper-2:#ece5d7;
-    --accent:#a8d1ff;     /* burnt sienna */
-    --accent-2:#2f5d50;   /* deep teal */
-    --rule:#cdbfa8;
-    --muted:#6b6155;
+    --ink:#16212e;          /* deep navy-slate (darkest) */
+    --paper:#eef3fb;         /* cool paper (lightest bg) */
+    --paper-2:#dde8f4;       /* cool panel */
+    --accent:#2f6fc0;        /* readable blue (text, links, buttons) */
+    --accent-tint:#a8d1ff;   /* soft light blue (fills, hovers) */
+    --accent-2:#0e7d8a;      /* deep cyan-teal (figure contrast) */
+    --rule:#c4d2e2;          /* cool grey-blue border */
+    --muted:#5c6b7d;         /* cool slate grey */
   }
   *{box-sizing:border-box;margin:0;padding:0;}
   html{scroll-behavior:smooth;}
@@ -31,14 +32,14 @@ permalink: /selected-work/
     line-height:1.62;
     -webkit-font-smoothing:antialiased;
     background-image:
-      radial-gradient(circle at 20% 0%, rgba(154,58,30,.04), transparent 40%),
-      radial-gradient(circle at 90% 100%, rgba(47,93,80,.05), transparent 45%);
+      radial-gradient(circle at 20% 0%, rgba(168,209,255,.10), transparent 40%),
+      radial-gradient(circle at 90% 100%, rgba(14,125,138,.06), transparent 45%);
     background-attachment:fixed;
   }
   .wrap{max-width:880px;margin:0 auto;padding:0 28px;}
 
   /* ---------- Masthead ---------- */
-  header{padding:35px 0 35px;border-bottom:2px solid var(--ink);}
+  header{padding:88px 0 34px;border-bottom:2px solid var(--ink);}
   .kicker{
     font-family:"JetBrains Mono",monospace;
     font-size:12px;letter-spacing:.32em;text-transform:uppercase;
@@ -46,17 +47,17 @@ permalink: /selected-work/
   }
   h1{
     font-family:"Fraunces",serif;
-    font-weight:900;font-size:clamp(35px,8vw,35px);
+    font-weight:900;font-size:clamp(34px,8vw,82px);
     line-height:.98;letter-spacing:-.02em;
     font-optical-sizing:auto;
   }
   h1 em{font-style:italic;font-weight:400;color:var(--accent);}
   .lede{
-    margin-top:30px;max-width:46ch;font-size:17px;color:var(--muted);
+    margin-top:30px;max-width:46ch;font-size:21px;color:var(--muted);
   }
 
   /* ---------- Arc intro ---------- */
-  .arc{padding:35px 0 24px;}
+  .arc{padding:34px 0 24px;}
   .arc .label{
     font-family:"JetBrains Mono",monospace;font-size:12px;
     letter-spacing:.28em;text-transform:uppercase;color:var(--accent-2);
@@ -64,9 +65,9 @@ permalink: /selected-work/
   }
   .arc p{margin-bottom:20px;max-width:62ch;}
   .arc .big{
-    font-family:"Fraunces",serif;font-size:clamp(35px,4vw,35px);
+    font-family:"Fraunces",serif;font-size:clamp(26px,4vw,38px);
     line-height:1.2;font-weight:400;font-style:italic;
-    color:var(--ink);margin:8px 0 35px;letter-spacing:-.01em;max-width:20ch;
+    color:var(--ink);margin:8px 0 30px;letter-spacing:-.01em;max-width:20ch;
   }
   .arc .big b{font-style:normal;font-weight:900;color:var(--accent);}
 
@@ -74,7 +75,7 @@ permalink: /selected-work/
   .papers{padding:30px 0 90px;counter-reset:paper;}
   .paper{
     position:relative;
-    padding:35px 0;
+    padding:36px 0;
     border-top:1px solid var(--rule);
   }
   .paper::before{
@@ -82,7 +83,7 @@ permalink: /selected-work/
     content:"0" counter(paper);
     font-family:"JetBrains Mono",monospace;
     font-size:13px;color:var(--accent);
-    position:absolute;top:48px;left:0;
+    position:absolute;top:38px;left:0;
   }
   .paper-body{padding-left:74px;}
   @media(max-width:620px){
@@ -131,13 +132,13 @@ permalink: /selected-work/
 
   /* connective thread between cards */
   .thread{
-    padding-left:74px;color:var(--muted);font-style:italic;
+    padding-left:44px;color:var(--muted);font-style:italic;
     font-size:17px;max-width:54ch;
   }
   @media(max-width:620px){.thread{padding-left:0;}}
 
   footer{
-    border-top:2px solid var(--ink);padding:5px 0 5px;
+    border-top:2px solid var(--ink);padding:38px 0 80px;
     font-family:"JetBrains Mono",monospace;font-size:12px;
     letter-spacing:.05em;color:var(--muted);
     display:flex;justify-content:space-between;flex-wrap:wrap;gap:14px;
@@ -164,7 +165,7 @@ permalink: /selected-work/
   .back-bottom{display:flex;justify-content:center;padding:8px 0 4px;}
   .back-bottom .back-link{font-size:13px;padding:12px 26px;}
 
-    /* figures */
+  /* figures */
   .fig{margin:30px 0 8px;}
   .fig svg{width:100%;height:auto;display:block;}
   .fig figcaption{
@@ -185,15 +186,16 @@ permalink: /selected-work/
   .f-label-sm{font-family:"JetBrains Mono",monospace;font-size:10.5px;fill:var(--muted);}
   .f-label-serif{font-family:"Fraunces",serif;fill:var(--ink);}
 </style>
-</style>
 </head>
 <body>
 <div class="wrap">
+
   <div class="topbar reveal">
     <a class="back-link" href="/publications/"><span class="arr">←</span> Back to Publications</a>
   </div>
+
   <header class="reveal">
-    <div class="kicker">Selected Work</div>
+    <div class="kicker">Yoshinari Takayama · Selected Work</div>
     <h1>Making temporal&#8209;logic control <em>practical.</em></h1>
     <p class="lede">A research arc on Signal Temporal Logic — from a tractable optimization engine, to its first real industrial deployment, to a layered architecture that keeps it sound.</p>
   </header>
@@ -205,7 +207,7 @@ permalink: /selected-work/
     <p class="big">From <b>tractable</b> logic, to a <b>real</b> deployment, to a <b>trustworthy</b> architecture.</p>
   </section>
 
-    <figure class="fig reveal" aria-label="Three-stage research arc">
+  <figure class="fig reveal" aria-label="Three-stage research arc">
     <svg viewBox="0 0 760 230" xmlns="http://www.w3.org/2000/svg" role="img">
       <!-- baseline -->
       <line x1="110" y1="78" x2="650" y2="78" class="f-rule-s" stroke-width="2"/>
@@ -223,21 +225,21 @@ permalink: /selected-work/
       <text x="130" y="142" text-anchor="middle" class="f-label" font-weight="600">Tractable</text>
       <text x="130" y="162" text-anchor="middle" class="f-label-sm">Convex STL</text>
       <text x="130" y="178" text-anchor="middle" class="f-label-sm">synthesis</text>
-      <text x="130" y="206" text-anchor="middle" class="f-label-sm" fill="#9a3a1e">STLCCP</text>
+      <text x="130" y="206" text-anchor="middle" class="f-label-sm" fill="#2f6fc0">STLCCP</text>
       <!-- node 2 -->
       <circle cx="380" cy="78" r="30" class="f-fill-w f-acc-s" stroke-width="2"/>
       <text x="380" y="84" text-anchor="middle" class="f-label-serif" font-size="22" font-weight="900">02</text>
       <text x="380" y="142" text-anchor="middle" class="f-label" font-weight="600">Real</text>
       <text x="380" y="162" text-anchor="middle" class="f-label-sm">Runtime-verifiable</text>
       <text x="380" y="178" text-anchor="middle" class="f-label-sm">grid deployment</text>
-      <text x="380" y="206" text-anchor="middle" class="f-label-sm" fill="#9a3a1e">Power Systems</text>
+      <text x="380" y="206" text-anchor="middle" class="f-label-sm" fill="#2f6fc0">Power Systems</text>
       <!-- node 3 -->
       <circle cx="630" cy="78" r="30" class="f-fill-w f-acc-s" stroke-width="2"/>
       <text x="630" y="84" text-anchor="middle" class="f-label-serif" font-size="22" font-weight="900">03</text>
       <text x="630" y="142" text-anchor="middle" class="f-label" font-weight="600">Trustworthy</text>
       <text x="630" y="162" text-anchor="middle" class="f-label-sm">Layered contract</text>
       <text x="630" y="178" text-anchor="middle" class="f-label-sm">architecture</text>
-      <text x="630" y="206" text-anchor="middle" class="f-label-sm" fill="#9a3a1e">A-G Contracts</text>
+      <text x="630" y="206" text-anchor="middle" class="f-label-sm" fill="#2f6fc0">A-G Contracts</text>
     </svg>
     <figcaption><b>The arc.</b> Each work removes the obstacle the previous one exposed — an efficient engine, then a real deployment, then a sound architecture around it.</figcaption>
   </figure>
@@ -252,7 +254,7 @@ permalink: /selected-work/
         <div class="authors"><b>Yoshinari Takayama</b>, Kazumune Hashimoto, Toshiyuki Ohtsuka</div>
         <div class="venue">arXiv:2305.09441 [eess.SY] · 2025</div>
         <p class="summary">STL is expressive, but its native mixed-integer encoding does not scale to long horizons. STLCCP recasts the synthesis problem by exploiting three structural properties of STL — monotonicity of the robustness function, its hierarchical tree structure, and the correspondence between conjunction/disjunction and convexity/concavity. The result is a difference-of-convex program solved as a sequence of convex quadratic programs, augmented by a tree-weighted penalty CCP and a tailored <em>mellowmin</em> smoothing. STL becomes a computationally viable engine for control over long horizons.</p>
-                <figure class="fig" aria-label="STL tree mapped to a difference-of-convex program">
+        <figure class="fig" aria-label="STL tree mapped to a difference-of-convex program">
           <svg viewBox="0 0 700 210" xmlns="http://www.w3.org/2000/svg" role="img">
             <!-- tree -->
             <line x1="120" y1="48" x2="64" y2="120" class="f-rule-s" stroke-width="1.5"/>
@@ -295,7 +297,6 @@ permalink: /selected-work/
           </svg>
           <figcaption><b>Structure-aware decomposition.</b> The robustness tree maps conjunction to convex and disjunction to concave terms, yielding a difference-of-convex program solved as sequential QPs.</figcaption>
         </figure>
-        
         <div class="tags">
           <span class="tag">Convex Optimization</span>
           <span class="tag">CCP</span>
@@ -304,8 +305,8 @@ permalink: /selected-work/
         </div>
         <div class="links">
           <a href="https://arxiv.org/abs/2305.09441" target="_blank" rel="noopener">arXiv <span>↗</span></a>
-          <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10945441" target="_blank" rel="noopener">PDF <span>↗</span></a>
-          <a href="https://github.com/yotakayama/stlccp" target="_blank" rel="noopener">Code <span>↗</span></a>
+          <a href="#" target="_blank" rel="noopener">PDF <span>↗</span></a>
+          <a href="#" target="_blank" rel="noopener">Code <span>↗</span></a>
         </div>
       </div>
     </article>
@@ -318,9 +319,9 @@ permalink: /selected-work/
         <span class="q">Q2 — What real problems can we then formalize?</span>
         <h2><a href="#" target="_blank" rel="noopener">Runtime Verifiable Implementation of Recurring Switching Rules via Signal Temporal Logic: Industrial Power System Case Study</a></h2>
         <div class="authors"><b>Yoshinari Takayama</b>, Adnane Saoud, Alessio Iovine, Guillaume Sandou</div>
-        <div class="venue">Nonlinear Analysis: Hybrid Systems</div>
+        <div class="venue">Preprint · submitted to Nonlinear Analysis: Hybrid Systems</div>
         <p class="summary">The first real-world, large-scale implementation of complex STL. Natural-language operating rules of the French sub-transmission grid — battery cycling, multi-level overload tolerance, flow-limit changes — are formalized as recurring, infinite-horizon specifications, then transformed step-by-step into finite-horizon receding-horizon problems that stay robust to disturbances and actuator delays via memory constraints and constraint tightening. Crucially the scheme is <em>runtime verifiable</em>: each subformula's robustness value is a live certificate that pinpoints which requirement is violated, and by how much.</p>
-                <figure class="fig" aria-label="Pipeline from natural-language rules to a verifiable receding-horizon problem">
+        <figure class="fig" aria-label="Pipeline from natural-language rules to a verifiable receding-horizon problem">
           <svg viewBox="0 0 700 250" xmlns="http://www.w3.org/2000/svg" role="img">
             <defs>
               <marker id="ah3" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
@@ -351,13 +352,13 @@ permalink: /selected-work/
             <!-- horizon strip -->
             <text x="8" y="140" class="f-label-sm">receding horizon at time t</text>
             <!-- memory (past) -->
-            <rect x="8" y="150" width="150" height="40" class="f-rule-s" fill="rgba(154,58,30,.10)" stroke-width="1.5"/>
+            <rect x="8" y="150" width="150" height="40" class="f-rule-s" fill="rgba(168,209,255,.22)" stroke-width="1.5"/>
             <text x="83" y="175" text-anchor="middle" class="f-label-sm">memory (past)</text>
             <!-- now marker -->
             <line x1="158" y1="142" x2="158" y2="200" class="f-acc-s" stroke-width="2"/>
             <text x="158" y="214" text-anchor="middle" class="f-acc" font-size="11" font-family="JetBrains Mono, monospace">t</text>
             <!-- prediction -->
-            <rect x="158" y="150" width="210" height="40" class="f-acc-s" fill="rgba(47,93,80,.10)" stroke-width="1.5"/>
+            <rect x="158" y="150" width="210" height="40" class="f-acc-s" fill="rgba(14,125,138,.12)" stroke-width="1.5"/>
             <text x="263" y="175" text-anchor="middle" class="f-label-sm">prediction horizon N</text>
             <!-- slide arrow -->
             <path d="M392 170 h44" class="f-rule-s" stroke-width="1.5" stroke-dasharray="3 3" marker-end="url(#ah3)"/>
@@ -365,7 +366,6 @@ permalink: /selected-work/
           </svg>
           <figcaption><b>Infinite to finite, with a live certificate.</b> Recurring NL rules become a finite-horizon RHC problem carrying past <b>memory</b>; the per-subformula robustness &#961;<sub>&#966;</sub> reports satisfaction at every step.</figcaption>
         </figure>
-
         <div class="tags">
           <span class="tag">NL → STL</span>
           <span class="tag">Receding Horizon</span>
@@ -373,7 +373,7 @@ permalink: /selected-work/
           <span class="tag">Runtime Verification</span>
         </div>
         <div class="links">
-          <a href="https://hal.science/hal-05402089/" target="_blank" rel="noopener">Preprint <span>↗</span></a>
+          <a href="#" target="_blank" rel="noopener">Preprint <span>↗</span></a>
           <a href="#" target="_blank" rel="noopener">PDF <span>↗</span></a>
         </div>
       </div>
@@ -420,7 +420,6 @@ permalink: /selected-work/
           </svg>
           <figcaption><b>Two layers, one contract.</b> A reference governor bridges discrete planning and continuous execution; the ZOH makes the coupling sequential, so safety (invariance) and liveness (refinement) are certified independently, then composed.</figcaption>
         </figure>
-        
         <div class="tags">
           <span class="tag">Assume-Guarantee</span>
           <span class="tag">Layered Control</span>
@@ -436,14 +435,14 @@ permalink: /selected-work/
 
   </section>
 
-    <div class="back-bottom reveal">
+  <div class="back-bottom reveal">
     <a class="back-link" href="/publications/"><span class="arr">←</span> Back to Publications</a>
   </div>
 
   <footer class="reveal">
     <div>© Yoshinari Takayama</div>
     <div>L2S · CentraleSupélec · Paris-Saclay</div>
-    <div><a href="#">Google&nbsp;Scholar</a> · <a href="#">CV</a></div>
+    <div><a href="/publications/">← Publications</a> · <a href="/">Home</a></div>
   </footer>
 
 </div>
@@ -459,5 +458,3 @@ permalink: /selected-work/
 </script>
 </body>
 </html>
-
-
