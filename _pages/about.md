@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
 ---------------------------------------
-I'm a 3rd-year Ph.D. student in control system engineering at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr), [CentraleSupélec](https://www.centralesupelec.fr/en/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en/) in France, where I’m fortunate to be funded by the French National Research Agency (ANR).
+Hi, my name is  Yoshinari Takayama. I'm a 3rd-year Ph.D. student in control system engineering at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr), [CentraleSupélec](https://www.centralesupelec.fr/en/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en/) in France, where I’m fortunate to be funded by the French National Research Agency (ANR).
 
 I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), where I was fortunate to be advised by Prof. [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), and my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, also at Kyoto University.
  <style>/*
@@ -62,6 +62,18 @@ I'm passionate about developing safe and reliable AI for real-world systems, wit
 - **Applications to Power Systems:** Modeling and controlling power networks with robustness against disturbances and uncertainties.  
 
 Recently, I've started exploring the **theoretical foundations of fine-tuning RL algorithms** for foundational models, aiming to improve their adaptability and generalization capabilities.
+
+
+<div class="about">
+<h2>Academic Services</h2>
+</div>
+---------------------------------------
+<h3>Journal Reviewer</h3>
+
+- Systems & Control Letters (L-CSS)
+- IEEE Robotics and Automation Letters (IEEE-RAL)
+
+
 
  <style>/*
 
