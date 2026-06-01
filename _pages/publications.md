@@ -6,8 +6,31 @@ description:
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+
 <style>
+/* small scoped call-out that links to the standalone Selected Work page */
+.selected-work-cta{
+  display:flex;align-items:center;gap:18px;flex-wrap:wrap;
+  margin:8px 0 36px;padding:20px 24px;
+  border:1px solid #cdbfa8;border-left:4px solid #9a3a1e;border-radius:10px;
+  background:rgba(154,58,30,.04);
+}
+.selected-work-cta .swc-text{flex:1;min-width:220px;}
+.selected-work-cta .swc-kicker{
+  font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#9a3a1e;
+  margin-bottom:4px;
+}
+.selected-work-cta .swc-title{font-weight:600;font-size:18px;line-height:1.3;}
+.selected-work-cta a.swc-btn{
+  font-family:"JetBrains Mono",ui-monospace,monospace;font-size:12px;
+  letter-spacing:.08em;text-transform:uppercase;text-decoration:none;
+  padding:10px 18px;border-radius:100px;background:#9a3a1e;color:#fff;
+  white-space:nowrap;transition:.2s;
+}
+.selected-work-cta a.swc-btn:hover{background:#7a2c15;}
+
+
 .publications h2 {
   font-family: 'Georgia', cursive;
   font-size: 28px;    /* Larger font size */
@@ -17,8 +40,14 @@ nav_order: 1
 }
 </style>
 
+<div class="selected-work-cta">
+  <div class="swc-text">
+    <div class="swc-kicker">Research Arc</div>
+    <div class="swc-title">Read the story behind these papers — from tractable logic to a trustworthy architecture.</div>
+  </div>
+  <a class="swc-btn" href="/selected-work/">Selected Work →</a>
+</div>
 <div class="publications">
-
 <h2>Preprints</h2>
 {% bibliography -f papers -q @*[type=preprint]* %}
 No preprints at the moment
@@ -38,3 +67,4 @@ No preprints at the moment
 - [**Power Management via STL Specifications of DC Microgrids**](https://www.linkedin.com/posts/green-energy-park_gep-um6p-iresen-activity-7212502911937900545-a7F1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADgIg2QBIe8FhKUZ24cRTVQdcngPRWcfIak) at *UM6P College of Computing, Marocco*, 2024
 
 - [**Structure-Exploiting Optimization for Control with Signal Temporal Logic Specifications**](https://csrte23.sciencesconf.org/) at *3rd Workshop of the RTE Chair, CentraleSupélec, France*
+
