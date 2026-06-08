@@ -18,9 +18,50 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
 ---------------------------------------
-Hi, my name is  Yoshinari Takayama. I'm a 3rd-year Ph.D. student in control system engineering at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr), [CentraleSupélec](https://www.centralesupelec.fr/en/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en/) in France, where I’m fortunate to be funded by the French National Research Agency (ANR).
+Hi, my name is Yoshinari Takayama. I work on making formal guarantees hold up on real systems — taking control specifications that are expressive on paper and making them *tractable* to compute, *real* to deploy, and *sound* to trust.
 
-I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), where I was fortunate to be advised by Prof. [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), and my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, also at Kyoto University.
+I'm a 3rd-year Ph.D. student in control system engineering at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr), [CentraleSupélec](https://www.centralesupelec.fr/en/), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en/) in France, funded by the French National Research Agency (ANR). I completed my master's degree at the Graduate School of Informatics, [Kyoto University](https://www.kyoto-u.ac.jp/en), advised by Prof. [Toshiyuki Ohtsuka](http://www.ids.sys.i.kyoto-u.ac.jp/~ohtsuka/index.htm), and my bachelor's degree at the School of Informatics and Mathematical Science, Faculty of Engineering, also at Kyoto University.
+
+<style>
+.about h2 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 30px;
+    color: #2f6fc0;          /* same accent as the Selected Work page */
+    font-weight: 700;
+    margin-top: 36px;
+}
+</style>
+
+<div class="about">
+<h2>Research Interests</h2>
+</div>
+---------------------------------------
+My work follows one question: *do formal guarantees survive contact with reality?* Each thread removes a different obstacle between an expressive specification and a system you can actually trust.
+
+- **Tractable optimization for control:** turning expressive but intractable specifications — like the mixed-integer encoding of Signal Temporal Logic — into convex programs that scale to long horizons.
+- **Formal methods for cyber-physical systems:** assume-guarantee contracts and runtime verification that certify safety *and* liveness on continuous-time hardware, not only in the discrete-time model that planned it.
+- **Safe learning and control:** equipping reinforcement learning (RL) and model predictive control (MPC) with guarantees that hold under disturbance, delay, and model error — so learned policies inherit the same certificates as designed ones.
+- **Power systems as the proving ground:** where the theory meets a real grid — battery cycling, multi-level overload tolerance, and hybrid energy storage under genuine operating rules.
+
+Most recently, I've been turning the same question on learning systems themselves — the **theoretical foundations of fine-tuning RL for foundation models** — asking what adaptation and generalization mean when the object being controlled is the learner.
+
+<div class="about">
+<h2>Academic Services</h2>
+</div>
+---------------------------------------
+<h4>Journal Reviewer</h4>
+
+- Systems & Control Letters (L-CSS)
+- IEEE Robotics and Automation Letters (IEEE-RAL)
+
+<div class="about">
+<h2>Honors &amp; Awards</h2>
+</div>
+---------------------------------------
+- **2023** — Encouragement Award, Institute of Systems, Control and Information Engineers (ISCIE)
+- **2023** — SICE International Young Authors Award (IEEE CDC 2022)
+- **2022** — Best Student Presentation Award, SCI 2022
+
  <style>/*
  My CV is available [here](https://drive.google.com/file/d/1UF-xSUt42NeCobBX2o89UOWqrAKKEh-z/view?usp=sharing). Please contact me via [email](up46564qu@gmail.com) for the most updated version.
  ---------------------------------------
@@ -40,38 +81,6 @@ I’m Yoshinari Takayama, a 2nd-year graduate student in Graduate School of Info
         - 学生優秀発表賞 (SCI'22) 
  */</style>
 
-<style>
-.about h2 {
-    font-family: 'Georgia', cursive;
-    font-size: 30px;    /* Larger font size */
-    color: #4C96B6;       /* Purple color */
-    font-weight: bold;   /* Bold for better visibility */
-    margin-top: 30px;    /* Add some spacing between sections */
-}
-</style>
-
-<div class="about">
-<h2>Research Interests</h2>
-</div>
----------------------------------------
-I'm passionate about developing safe and reliable AI for real-world systems, with a focus on bridging **machine learning** and **formal methods** for cyber-physical systems. My current interests include:
-
-- **Optimization Algorithms:** Designing efficient optimization techniques for decision-making under uncertainty.  
-- **Cyber-Physical Systems:** Applying formal verification and control theory to guarantee safety and performance in complex systems.
-- **Safe Learning and Control:** Enhancing reinforcement learning (RL) and model predictive control (MPC) with formal safety guarantees.    
-- **Applications to Power Systems:** Modeling and controlling power networks with robustness against disturbances and uncertainties.  
-
-Recently, I've started exploring the **theoretical foundations of fine-tuning RL algorithms** for foundational models, aiming to improve their adaptability and generalization capabilities.
-
-
-<div class="about">
-<h2>Academic Services</h2>
-</div>
----------------------------------------
-<h4>Journal Reviewer</h4>
-
-- Systems & Control Letters (L-CSS)
-- IEEE Robotics and Automation Letters (IEEE-RAL)
 
 
 
