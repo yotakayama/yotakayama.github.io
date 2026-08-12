@@ -45,6 +45,14 @@ nav_order: 1
 
 <div class="selected-work-cta">
   <div class="swc-text">
+    <div class="swc-kicker">Start Here</div>
+    <div class="swc-title">New to temporal logic? A plain-language overview of what I work on and why it matters.</div>
+  </div>
+  <a class="swc-btn" href="/research-goal/">Research Overview →</a>
+</div>
+
+<div class="selected-work-cta">
+  <div class="swc-text">
     <div class="swc-kicker">Research Arc</div>
     <div class="swc-title">Read the story behind papers [J1,J2,J3] — from tractable logic to a trustworthy architecture.</div>
   </div>
